@@ -36,6 +36,7 @@ jobs:
         pip install -U sphinx
         pip install furo
         pip install toml
+        pip install sphinx-mdinclude
         
     - name: Build documentation
       run: |
