@@ -7,7 +7,7 @@ name = "name-here"
 version = "0.1.0"
 authors = [{ name = "GU Orbit Software Team", email = "uog.orbit@gmail.com" }]
 requires-python = ">=3.10"
-description = "A package containing utilities for GU Orbit Software"
+description = "custom description here"
 readme = "README.md"
 license = { text = "MIT" }
 classifiers = [
